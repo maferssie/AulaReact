@@ -1,13 +1,10 @@
-export default function Exercicio1({fah, celsius})
+export default function Exercicio1({fah})
 {
-    let celsius = ((fah-32)*5)/9;
+    let celsius = (fah-32)* 5/9;
 
     return (
         <div> 
-           <h3>Chamadas para o Exercicio 1</h3>
-
-           A conversão de 100°F para Celsius é {celsius};
-           A conversão de 70°F para Celsius é {celsius};
+        A temperatura {fah}ºF em Celsius é {celsius} °C.
         </div>
-    );
+    )
 }
