@@ -44,13 +44,13 @@ export default function App ()
 
       <hr />
       <h3>Chamada para o Exercicio 5</h3>
-      <Exercicio5 quantidade={10} />
+      <Exercicio5 quantidade={10} /> <br/>
       <Exercicio5  quantidade={20} />
 
       <hr />
       <h3>Chamada para o Exercicio 5</h3>
-      <Exercicio5 quantidade={10} />
-      <Exercicio5  quantidade={20} />
+      <Exercicio6 quantidade={1000} taxa={5} tempo={2} />
+      <Exercicio6  quantidade={1000} taxa={5} tempo={3} />
     </div>
   )
 }
