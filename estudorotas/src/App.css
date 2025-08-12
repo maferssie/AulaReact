@@ -1,0 +1,26 @@
+body
+{
+    margin : 0;
+    padding : 0;
+}
+
+h1 
+{
+    background-color: darkorchid;
+    color : whitesmoke;
+
+    margin : 0;
+    padding : 30;
+
+    text-align: center;
+}
+
+a
+{
+    color :darkviolet
+}
+
+img 
+{
+    width: 500px;
+}
