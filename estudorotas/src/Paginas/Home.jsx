@@ -27,7 +27,7 @@ export default function Home()
                  <li><a href="/ac">Acre</a></li>
                  <li><a href="/ap">Amapá</a></li>
                  <li><a href="/am">Amazonas</a></li>
-                 <li><a href="/pr">Pará</a></li>
+                 <li><a href="/pa">Pará</a></li>
                  <li><a href="/ro">Rondônia</a></li>
                  <li><a href="/rr">Roraima</a></li>
                  <li><a href="/to">Tocantins</a></li>
@@ -48,7 +48,7 @@ export default function Home()
                  <li><a href="/se">Sergipe</a></li>
             </ul>
 
-            <h3>Estados da Região Nordeste</h3>
+             <h3>Estados da Região Centro-Oeste</h3>
      
             <ul>
                 <li><a href="/df">Distrito Federal</a></li>

@@ -1,16 +1,15 @@
-export default function Acre()
+export default function Amapa()
 {
     return(
         <div>
-            <h1>Seja bem vindo ao Estado dO Acre</h1>
+            <h1>Seja bem vindo ao Estado do Amapa</h1>
 
             <p>
-            O Acre é um estado da Região Norte do Brasil, com capital em Rio Branco. É marcado pela Floresta Amazônica e pela cultura indígena. Sua economia envolve borracha, agricultura e ecoturismo.
-
+            O Amapá está localizado na região Norte do Brasil, com capital em Macapá. Seu território é coberto em grande parte pela Floresta Amazônica e abriga o Parque Nacional Montanhas do Tumucumaque. A economia se baseia em mineração, extrativismo e serviços.
             </p>
 
             <p>
-                <img src="/AC.png" />
+                <img src="/AP.png" />
             </p>
 
             <p>
