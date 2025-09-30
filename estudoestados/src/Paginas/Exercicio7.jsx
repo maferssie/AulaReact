@@ -2,7 +2,7 @@ export default function Exercicio7()
 {
     return(
         <div>
-            <h1>Exercicio7</h1>
+            <h1>Exercício 7</h1>
            
         <div className="conteudo">
 
