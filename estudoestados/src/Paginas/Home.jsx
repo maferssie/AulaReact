@@ -7,7 +7,7 @@ export default function Home() {
 
       <div className="conteudo">
         
-        <p> ────୨ৎ──── </p>
+        <h3> ────୨ৎ──── </h3>
 
         <p>
           O useState é um hook do React que permite adicionar e gerenciar estados em componentes funcionais. Com ele, você pode criar variáveis que armazenam valores dinâmicos, como textos, números ou objetos, e atualizar esses valores conforme o usuário interage com a interface. Sempre que o estado muda, o componente é re-renderizado automaticamente para refletir as novas informações na tela.
